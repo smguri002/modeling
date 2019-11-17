@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyodbc-database-tools
+Version: 1.0.3
+Summary: Simple context manager for pyodbc database connections.
+Home-page: https://github.com/ziplokk1/database-tools
+Author: Mark Sanders
+Author-email: sdscdeveloper@gmail.com
+License: LICENSE.txt
+Description: UNKNOWN
+Platform: UNKNOWN
